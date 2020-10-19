@@ -13,7 +13,7 @@ a, a:visited {
 }
 
 .container {
-  margin-top: 30px; 
+  margin-top: 30px;
 }
 .attribution {
   font-size: 11px;
@@ -21,6 +21,16 @@ a, a:visited {
   font-color: grey;
 }
 
+/** Images **/
+article img {
+  padding: 5px;
+  border: solid 1px #CCC;
+  -moz-box-shadow: 1px 1px 5px #999;
+  -webkit-box-shadow: 1px 1px 5px #999;
+      box-shadow: 1px 1px 5px #999;
+}
+/** Blockquotes **/
+/** -- Prerequisites */
 .prereq h2 {
   background: #314355;
   border-color: #314355;
@@ -35,6 +45,31 @@ a, a:visited {
 .prereq h2::before {
   content: '';
 }
+
+/** -- Episode Overview */
+blockquote.objectives {
+  background-color: #FBFDF0;
+  border-color: #008000;
+}
+blockquote.objectives h2 {
+  background: #008000;
+  border-color: #008000;
+  color: white;
+  font-weight: bold;
+}
+
+/** -- Key Points */
+blockquote.keypoints {
+  background-color: #FBFDF0;
+  border-color: #008000;
+}
+blockquote.keypoints h2 {
+  background: #008000;
+  border-color: #008000;
+  color: white;
+  font-weight: bold;
+}
+
 /** TABLES **/
 table {
   background: #fff;
