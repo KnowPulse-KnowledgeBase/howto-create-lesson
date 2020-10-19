@@ -22,9 +22,7 @@ why: "Are you a Pulse Crop Researchers motivated to share their expertise with t
 # A short list of items researchers will learn in this lesson.
 learn: "
 - How to create a lesson repository
-
 - How to customize it to provide important metadata about your lesson
-
 - Tips and tricks for how to write your lesson"
 
 data-description: "This tutorial does not deal with scientific data directly."
@@ -40,7 +38,9 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 
 Some of the things you will learn include:
 
-{{ page.learn }}
+- How to create a lesson repository
+- How to customize it to provide important metadata about your lesson
+- Tips and tricks for how to write your lesson
 
 > ## Getting Started
 >
