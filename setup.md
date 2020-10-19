@@ -1,3 +1,6 @@
+--
+title: "Setup"
+--
 
 ## Hello and Welcome! There is not very much setup for this tutorial -you just need a GitHub Account!
 
