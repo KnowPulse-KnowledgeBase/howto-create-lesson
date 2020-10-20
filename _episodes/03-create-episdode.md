@@ -18,14 +18,14 @@ keypoints:
 
 In your repository, click on the `_episodes` folder, then click on add `Add File` > `Create new file`. This will create a new file in the current `_episodes` directory.
 
-![Screenshot of main code listing](..fig/create_lesson-step3-1.png)
-![Screenshot of adding a file](..fig/create_lesson-step3-1.png)
+![Screenshot of main code listing](../fig/create_lesson-step3-1.png)
+![Screenshot of adding a file](../fig/create_lesson-step3-2.png)
 
 ## Add header metadata to describe your episode
 
 Once we have a blank page, we need to add the header metadata to it. This is denoted by `---` at the top and bottom of the metadata section and helps the webpage buidler fill in information to the episode template. 
 
-![Screenshot of filled in metadata](..fig/create_lesson-step3-3.png)
+![Screenshot of filled in metadata](../fig/create_lesson-step3-3.png)
 
 Within the `---` there are a number of required metadata to fill out:
  - title: This is the title of the episode. It will be used in the main schedule as well as at the top of your episode page.
@@ -41,7 +41,7 @@ All of the above metadata will be used in the main schedule for your lesson as w
 
 Then you just add all the main content for your episode below the last `---`! This content is formatted using Markdown which you can see the format of in the following screenshot.
 
-![Screenshot of markdown formatted content](..fig/create_lesson-step3-4.png)
+![Screenshot of markdown formatted content](../fig/create_lesson-step3-4.png)
 
 Additionally, here is a quick little primer:
 ```
