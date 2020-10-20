@@ -116,3 +116,18 @@ This will trigger Github Pages to automatically publish your website changes and
 ![Screenshot of rendered page](../fig/create_lesson-step3-6.png)
 
 If there are any issues, don't panic! Just edit the file on github and make the changes.
+
+## Finally, what about my images?
+
+All images should be uploaded into the fig directory on your repository. First navigate back to the main page of your repository, click on the `fig` folder and then click `Add file` > `Upload files`.
+
+![Screenshot of upload files link](../fig/create_lesson-step3-7.png)
+
+Next, drag all your images onto the indicated region and then click commit!
+
+![Screenshot of upload files listing](../fig/create_lesson-step3-8.png)
+![Screenshot of rendered page](../fig/create_lesson-step3-9.png)
+
+This will take a little time to process. Once it's done it will trigger your website to be rebuilt and after a few minutes you can refresh the page and find the images there!
+
+![Screenshot of final rendered page](../fig/create_lesson-step3-10.png)
