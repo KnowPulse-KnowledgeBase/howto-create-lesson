@@ -1,7 +1,7 @@
 ---
 title: "Creating an episode"
-teaching: 5
-exercises: 15
+teaching: 10
+exercises: 20
 questions:
 - "How do I add an episode to my lesson?"
 - "What is this table at the top of my Markdown page?"
