@@ -34,6 +34,26 @@ Within the `---` there are a number of required metadata to fill out:
  - questions: The questions a user might have that this episode is supposed to answer. These are great for guiding your content!
  - objectives: The point of the epsidode. What is it trying to accomplish?
  - keypoints: Very breif, single sentence answers to the questions. Additionally can include any other key points you want the researcher to get from this episode.
+ 
+ For example, here is the metadata for this episode:
+ 
+ ```
+ ---
+title: "Creating an episode"
+teaching: 10
+exercises: 20
+questions:
+- "How do I add an episode to my lesson?"
+- "What is this table at the top of my Markdown page?"
+- "How do I add images? Headers? Code samples?"
+objectives:
+- "Add an episode to your lesson"
+keypoints:
+- "Create a new markdown file in your _episodes directory with header metadata."
+- "The section at the top of your markdown is metadata for your episode."
+- "The body is formatted in markdown and there are many tutorials available for syntax."
+---
+ ```
 
 All of the above metadata will be used in the main schedule for your lesson as well as incorporated into your episode page automatically!
 
