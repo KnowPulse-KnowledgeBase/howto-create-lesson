@@ -19,7 +19,7 @@ An episode is a cohesive block of tasks which map to a single step in your lesso
 
 ## Lessons
 
-A lesson is a collection of episodes that together help the learner answer a particular research question. Each lesson should include all the information needed to complete the task. While some may include tasks executed on KnowPulse, not all should as we want to answer the question completely including how to prepare data for entry into tools and how to analyze their results.
+A lesson is a collection of episodes that together help the learner answer a particular research question. Each lesson should include all the information needed to complete the task. While some may include tasks executed on KnowPulse, not all must as the primary goal is to answer the question completely including how to prepare data for entry into tools and how to analyze their results.
 
 ## Philosophy
 
