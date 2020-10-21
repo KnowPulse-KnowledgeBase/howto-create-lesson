@@ -27,7 +27,7 @@ Our lessons are inspired by the Carpentries-style of teaching. For additional su
 
 ## Create your own lesson repository!
 
-Go to https://github.com/KnowPulse-KnowledgeBase/lesson-template and click on **Use this template** to create a copy of the lesson template in your own Github space.
+Go to [https://github.com/KnowPulse-KnowledgeBase/lesson-template](https://github.com/KnowPulse-KnowledgeBase/lesson-template) and click on **Use this template** to create a copy of the lesson template in your own Github space.
 
 ![Screenshot of lesson-template](../fig/create_lesson-step1-1.png)
 
