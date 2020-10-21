@@ -33,7 +33,7 @@ Go to [https://github.com/KnowPulse-KnowledgeBase/lesson-template](https://githu
 
 Github will then ask you to title your lesson repository.
 
-	- The name should be very short and not include any spaces. Typically, we use dashes between words for easy readability.
-	- The description should then be the full question your lesson is going to answer.
+- The name should be very short and not include any spaces. Typically, we use dashes between words for easy readability.
+- The description should then be the full question your lesson is going to answer.
 
 ![Screenshot of repository creation](../fig/create_lesson-step1-2.png)
