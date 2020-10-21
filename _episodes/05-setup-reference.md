@@ -18,3 +18,5 @@ To provide setup instructions to researchers, just edit the `setup.md` page and 
 ![Screenshot of the setup page](../fig/create_lesson-step5-1.png)
 
 Follow the same instructions for editing the `reference.md`. This document should include links to any reference materials, tutorials, manuals, etc. It's also a good place to highlight the most important commands and link to the most important tools.
+
+![Screenshot of the reference page](../fig/create_lesson-step5-2.png)
