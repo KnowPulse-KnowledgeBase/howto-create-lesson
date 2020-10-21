@@ -1,5 +1,5 @@
 ---
-title: "Making your lesson a website!"
+title: "Making your lesson a website"
 teaching: 2
 exercises: 5
 questions:
