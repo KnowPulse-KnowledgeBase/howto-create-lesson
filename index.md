@@ -17,7 +17,16 @@ maintainers: "Lacey-Anne Sanderson"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "Are you a Pulse Crop Researchers motivated to share their expertise with the community? We hope this lesson will help you to share that knowledge! The only requirement is that this tutorial will be useful to other Pulse Crop researchers. It should use KnowPulse where applicable but can also use other web resources and desktop or command-line tools. It should be a complete description of how to solve an example question and include: (1) what data is needed and how to access it, (2) how to prepare that data for each tool used, (3) how to use each tool, (4) how to interpret the results presented by the tool. In short, please include all the information you wish you knew when starting out your analysis!"
+why: "Are you a Pulse Crop Researchers motivated to share their expertise with the community? We hope this lesson will help you to share that knowledge! The only requirement is that this tutorial will be useful to other Pulse Crop researchers. It should use KnowPulse where applicable but can also use other web resources and desktop or command-line tools.
+It should be a complete description of how to solve an example question and include:
+
+1. what data is needed and how to access it,
+
+2. how to prepare that data for each tool used,
+
+3. how to use each tool,
+
+4. how to interpret the results presented by the tool. In short, please include all the information you wish you knew when starting out your analysis!"
 
 # A short list of items researchers will learn in this lesson.
 learn:
@@ -36,10 +45,10 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 
 {{ page.why }}
 
-Some of the things you will learn include:
+<strong>Some of the things you will learn include:</strong>
 <ul>
 	{% for item in page.learn %}
-	<li>{{ item|markdownify }}</li>
+	<li style="font-weight:bold">{{ item|markdownify }}</li>
 	{% endfor %}
 </ul>
 
