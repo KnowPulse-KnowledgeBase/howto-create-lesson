@@ -38,7 +38,7 @@ Within the `---` there are a number of required metadata to fill out:
  For example, here is the metadata for this episode:
  
  ```
- ---
+---
 title: "Creating an episode"
 teaching: 10
 exercises: 20
