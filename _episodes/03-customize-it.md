@@ -11,7 +11,7 @@ keypoints:
 - "Edit the index.md file but just change the top metadata."
 ---
 
-When you made your lesson a website you may have noticed the main page container placeholder text which did not apply to your lesson. If you did then you may be wondering how to replace this text with useful information!
+When you made your lesson a website you may have noticed the main page contained placeholder text which did not apply to your lesson. If you did then you may be wondering how to replace this text with useful information!
 
 Luckily it's as easy as editing the `index.md` file and replacing the top metadata with information about your lesson!
 

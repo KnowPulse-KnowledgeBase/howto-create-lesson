@@ -10,7 +10,7 @@ objectives:
 keypoints:
 - "A Lesson should be a complete tutorial to answer a single question."
 - "An episode is a step in your tutorial demonstrating a cohesive collection of tasks."
-- "Create a lesson repository based on the lesson template by clicking **Use this template**."
+- "Create a lesson repository based on the [lesson template](https://github.com/KnowPulse-KnowledgeBase/lesson-template) by clicking **Use this template**."
 ---
 
 ## Episodes
@@ -19,7 +19,7 @@ An episode is a cohesive block of tasks which map to a single step in your lesso
 
 ## Lessons
 
-A lesson is a collection of episodes that together help the learner answer a particular research question. Each lesson should include all the information needed to complete the task. While some may include tasks executed on KnowPulse, not all should as we want to answer the question completely including how to prepare data for entry into tools and how to analyze their results.
+A lesson is a collection of episodes that together help the learner answer a particular research question. Each lesson should include all the information needed to complete the task. While some may include tasks executed on KnowPulse, not all must as the primary goal is to answer the question completely including how to prepare data for entry into tools and how to analyze their results.
 
 ## Philosophy
 
@@ -27,12 +27,13 @@ Our lessons are inspired by the Carpentries-style of teaching. For additional su
 
 ## Create your own lesson repository!
 
-Go to https://github.com/KnowPulse-KnowledgeBase/lesson-template and click on **Use this template** to create a copy of the lesson template in your own Github space.
+Go to [https://github.com/KnowPulse-KnowledgeBase/lesson-template](https://github.com/KnowPulse-KnowledgeBase/lesson-template) and click on **Use this template** to create a copy of the lesson template in your own Github space.
 
 ![Screenshot of lesson-template](../fig/create_lesson-step1-1.png)
 
 Github will then ask you to title your lesson repository.
-	- The name should be very short and not include any spaces. Typically, we use dashes between words for easy readability.
-	- The description should then be the full question your lesson is going to answer.
+
+- The name should be very short and not include any spaces. Typically, we use dashes between words for easy readability.
+- The description should then be the full question your lesson is going to answer.
 
 ![Screenshot of repository creation](../fig/create_lesson-step1-2.png)
